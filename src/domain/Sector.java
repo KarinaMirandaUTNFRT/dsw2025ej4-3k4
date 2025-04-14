@@ -1,4 +1,4 @@
-package domain;
+package domain;  //controlado
 
 import java.util.ArrayList;
 import java.util.InvalidPropertiesFormatException;
