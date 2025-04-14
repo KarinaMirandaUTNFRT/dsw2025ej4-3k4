@@ -3,7 +3,7 @@ package domain;
 public enum TipoAlimentacion {
     CARNIVORO,
     HERBIVORO,
-    OMNIVORO;
+    /////OMNIVORO; no corresponde
 
     public boolean esCarnivoro () {
         return this == CARNIVORO;
