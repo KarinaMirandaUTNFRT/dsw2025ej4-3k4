@@ -1,4 +1,4 @@
-package domain;
+package domain;  //controlado
 
 public class Especie {
     private String nombre;
